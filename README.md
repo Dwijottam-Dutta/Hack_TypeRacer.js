@@ -1,5 +1,5 @@
 
-# TextStorm
+# Hack_Typeracer.js
 
 A simple js script which crashes down [TypeRacer](https://play.typeracer.com/)
 
